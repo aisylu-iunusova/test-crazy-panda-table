@@ -1,0 +1,23 @@
+.App {
+  display: grid;
+  grid-template-rows: 50px auto 50px;
+  gap: 20px;
+
+  width: 1048px;
+  height: 1048px;
+
+  .header {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main {
+    // display: flex;
+    // justify-content: center;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+  }
+}
