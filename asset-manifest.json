@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.84aae97b.chunk.css",
-    "main.js": "/static/js/main.edec803d.chunk.js",
-    "main.js.map": "/static/js/main.edec803d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d2e27933.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d2e27933.js.map",
-    "static/js/2.b36e2de9.chunk.js": "/static/js/2.b36e2de9.chunk.js",
-    "static/js/2.b36e2de9.chunk.js.map": "/static/js/2.b36e2de9.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.84aae97b.chunk.css.map": "/static/css/main.84aae97b.chunk.css.map",
-    "static/js/2.b36e2de9.chunk.js.LICENSE.txt": "/static/js/2.b36e2de9.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/static/media/arrow-updown.3c7fc3f7.svg",
-    "static/media/empty.41ade0ad.png": "/static/media/empty.41ade0ad.png",
-    "static/media/search.2d0c0c09.svg": "/static/media/search.2d0c0c09.svg"
+    "main.css": "/test-crazy-panda-table/static/css/main.17815386.chunk.css",
+    "main.js": "/test-crazy-panda-table/static/js/main.edec803d.chunk.js",
+    "main.js.map": "/test-crazy-panda-table/static/js/main.edec803d.chunk.js.map",
+    "runtime-main.js": "/test-crazy-panda-table/static/js/runtime-main.a91ea57a.js",
+    "runtime-main.js.map": "/test-crazy-panda-table/static/js/runtime-main.a91ea57a.js.map",
+    "static/js/2.b36e2de9.chunk.js": "/test-crazy-panda-table/static/js/2.b36e2de9.chunk.js",
+    "static/js/2.b36e2de9.chunk.js.map": "/test-crazy-panda-table/static/js/2.b36e2de9.chunk.js.map",
+    "index.html": "/test-crazy-panda-table/index.html",
+    "static/css/main.17815386.chunk.css.map": "/test-crazy-panda-table/static/css/main.17815386.chunk.css.map",
+    "static/js/2.b36e2de9.chunk.js.LICENSE.txt": "/test-crazy-panda-table/static/js/2.b36e2de9.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/test-crazy-panda-table/static/media/arrow-updown.3c7fc3f7.svg",
+    "static/media/empty.41ade0ad.png": "/test-crazy-panda-table/static/media/empty.41ade0ad.png",
+    "static/media/search.2d0c0c09.svg": "/test-crazy-panda-table/static/media/search.2d0c0c09.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2e27933.js",
+    "static/js/runtime-main.a91ea57a.js",
     "static/js/2.b36e2de9.chunk.js",
-    "static/css/main.84aae97b.chunk.css",
+    "static/css/main.17815386.chunk.css",
     "static/js/main.edec803d.chunk.js"
   ]
 }
