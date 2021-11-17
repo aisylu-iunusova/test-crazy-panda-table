@@ -1,0 +1,26 @@
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 4fr 6fr;
+  gap: 10px;
+
+  & + .row {
+    border-top: 1px solid rgb(211, 198, 198);
+  }
+
+  .column {
+    width: 100%;
+    padding: 10px;
+
+    text-align: center;
+
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+
+    & + .column {
+      border-left: 1px solid rgb(211, 198, 198);
+    }
+  }
+}

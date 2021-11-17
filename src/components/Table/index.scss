@@ -1,0 +1,47 @@
+.table {
+  display: grid;
+  grid-template-row: auto 1fr auto;
+  gap: 20px;
+
+  padding: 20px;
+  box-shadow: 0px 2px 8px rgba(82, 68, 68, 0.3);
+
+  &-header {
+    width: 100%;
+  }
+
+  &-main {
+    width: 100%;
+    box-shadow: 0px 2px 8px rgba(82, 68, 68, 0.3);
+    border: 10px;
+
+    &-rows {
+      padding: 10px;
+      background-color: #fff;
+    }
+  }
+
+  &-footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .emptySearch {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: 100px auto;
+
+    img {
+      margin-top: 95px;
+      max-width: 293px;
+    }
+
+    p {
+      margin: 0 auto;
+      font-size: 20px;
+      line-height: 1.5;
+    }
+  }
+}
